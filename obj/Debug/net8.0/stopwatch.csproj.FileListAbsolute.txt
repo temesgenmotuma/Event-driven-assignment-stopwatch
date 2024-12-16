@@ -1,0 +1,14 @@
+E:\school\New folder\year 4\sem 1\Event driven\lab\stopwatch\bin\Debug\net8.0\stopwatch.exe
+E:\school\New folder\year 4\sem 1\Event driven\lab\stopwatch\bin\Debug\net8.0\stopwatch.deps.json
+E:\school\New folder\year 4\sem 1\Event driven\lab\stopwatch\bin\Debug\net8.0\stopwatch.runtimeconfig.json
+E:\school\New folder\year 4\sem 1\Event driven\lab\stopwatch\bin\Debug\net8.0\stopwatch.dll
+E:\school\New folder\year 4\sem 1\Event driven\lab\stopwatch\bin\Debug\net8.0\stopwatch.pdb
+E:\school\New folder\year 4\sem 1\Event driven\lab\stopwatch\obj\Debug\net8.0\stopwatch.GeneratedMSBuildEditorConfig.editorconfig
+E:\school\New folder\year 4\sem 1\Event driven\lab\stopwatch\obj\Debug\net8.0\stopwatch.AssemblyInfoInputs.cache
+E:\school\New folder\year 4\sem 1\Event driven\lab\stopwatch\obj\Debug\net8.0\stopwatch.AssemblyInfo.cs
+E:\school\New folder\year 4\sem 1\Event driven\lab\stopwatch\obj\Debug\net8.0\stopwatch.csproj.CoreCompileInputs.cache
+E:\school\New folder\year 4\sem 1\Event driven\lab\stopwatch\obj\Debug\net8.0\stopwatch.dll
+E:\school\New folder\year 4\sem 1\Event driven\lab\stopwatch\obj\Debug\net8.0\refint\stopwatch.dll
+E:\school\New folder\year 4\sem 1\Event driven\lab\stopwatch\obj\Debug\net8.0\stopwatch.pdb
+E:\school\New folder\year 4\sem 1\Event driven\lab\stopwatch\obj\Debug\net8.0\stopwatch.genruntimeconfig.cache
+E:\school\New folder\year 4\sem 1\Event driven\lab\stopwatch\obj\Debug\net8.0\ref\stopwatch.dll
