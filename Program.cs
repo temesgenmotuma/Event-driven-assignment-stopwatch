@@ -61,14 +61,14 @@ class Program
             lastMessage = message;
         }
 
-        Console.WriteLine("Stopwatch Application\nCommands: S to Start, T to Stop, R to Reset, Q to Quit\n");
+        Console.WriteLine("Console based Stopwatch Application\nCommands: S to Start, T to Stop, R to Reset, Q to Quit\n");
 
         bool quit = false;
 
         while (!quit)
         {
             Console.Clear();
-            Console.WriteLine("Stopwatch Application\nCommands: S to Start, T to Stop, R to Reset, Q to Quit\n");
+            Console.WriteLine("Console based Stopwatch Application\nCommands: S to Start, T to Stop, R to Reset, Q to Quit\n");
             Console.WriteLine($"Time Elapsed: {stopwatch.TimeElapsed:hh\\:mm\\:ss}");
 
             if (!string.IsNullOrEmpty(lastMessage))
@@ -94,10 +94,10 @@ class Program
                     case ConsoleKey.Q:
                         quit = true;
                         stopwatch.Stop();
-                        Console.WriteLine("Exiting application...");
+                        Console.WriteLine("Exiting application");
                         break;
                     default:
-                        Console.WriteLine("Invalid command. Use S, T, R, or Q.");
+                        Console.WriteLine("Incorrect command entered. Please use S, T, R, or Q.");
                         break;
                 }
             }
